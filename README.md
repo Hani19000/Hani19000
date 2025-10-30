@@ -1,7 +1,7 @@
 # Hi, I'm Hani 👋
 
-I am a **Full-Stack Web Developer**, 22 years old, with a strong interest in designing and developing modern, efficient, and scalable web applications.  
-I hold a **two-year degree (Bac+2)** in Full-Stack Web Application Development and have experience building complete solutions — from database architecture to user interface implementation.
+I am a **Full-Stack Web Developer**, 22 years old, with a strong interest in making a Full-stack web applications.  
+I hold a **Associate Degree Level (Bac+2)** in Full-Stack Web Application Development and have experience building complete solutions — from database architecture to user interface implementation.
 
 ---
 
@@ -35,8 +35,12 @@ I hold a **two-year degree (Bac+2)** in Full-Stack Web Application Development a
 
 ## 📫 Contact
 
-- ✉️ [hanider27@gmail.com](mailto:hanider27@gmail.com)  
-- 🔗 [LinkedIn](https://www.linkedin.com/in/hani-derrouiche-199461372/)
+
+- [![CV](https://img.shields.io/badge/CV-Open-blue?style=flat-square&logo=readme)](https://cv-hani-derrouiche.onrender.com/en/)
+- [![Portfolio](https://img.shields.io/badge/Portfolio-View-green?style=flat-square&logo=readme)](https://hani-derrouiche-portfolio.onrender.com/)
+- [![Email](https://img.shields.io/badge/Email-Send-red?style=flat-square&logo=gmail&logoColor=white)](mailto:hanider27@gmail.com)
+- [![LinkedIn](https://img.shields.io/badge/LinkedIn-Connect-blue?style=flat-square&logo=linkedin&logoColor=white)](https://www.linkedin.com/in/hani-derrouiche-199461372/)
+  
 
 ---
 
