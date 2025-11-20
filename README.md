@@ -36,7 +36,7 @@ I hold a **Associate Degree Level (Bac+2)** in Full-Stack Web Application Develo
 ## 📫 Contact
 
 
-- [![CV](https://img.shields.io/badge/CV-Open-blue?style=flat-square&logo=readme)](https://cv-hani-derrouiche.onrender.com/fr/)
+- [![CV](https://img.shields.io/badge/CV-Open-blue?style=flat-square&logo=readme)]([https://cv-hani-derrouiche.onrender.com/fr/](https://cv-hani-derrouiche-cdln.onrender.com/))
 - [![Portfolio](https://img.shields.io/badge/Portfolio-View-green?style=flat-square&logo=readme)](https://hani-derrouiche-portfolio.onrender.com/)
 - [![Email](https://img.shields.io/badge/Email-Send-red?style=flat-square&logo=gmail&logoColor=white)](mailto:hanider27@gmail.com)
 - [![LinkedIn](https://img.shields.io/badge/LinkedIn-Connect-blue?style=flat-square&logo=linkedin&logoColor=white)](https://www.linkedin.com/in/hani-derrouiche-199461372/)
