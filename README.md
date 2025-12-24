@@ -20,7 +20,7 @@ I hold a **Associate Degree Level (Bac+2)** in Full-Stack Web Application Develo
 | Area | Technologies |
 |-------|---------------|
 | **Back-end** | Python, Django, REST API, PostgreSQL, Express.js |
-| **Front-end** | HTML, CSS, JavaScript, Typescript Bootstrap, Jinja2 |
+| **Front-end** | HTML, CSS, JavaScript, Typescript, Bootstrap, Jinja2 |
 | **Additional** | Node.js, noSQL |
 | **Tools & Practices** | Git, SQLite, Docker (basics), MVT architecture, CRUD operations, Authentication, Deployment |
 
