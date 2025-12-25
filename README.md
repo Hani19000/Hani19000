@@ -1,13 +1,13 @@
 # Hi, I'm Hani 👋
 
-I am a **Full-Stack Web Developer**, 22 years old, with a strong interest in making a Full-stack web applications.  
+I am a **Full-Stack Web Developer**, 23 years old, with a strong interest in making a Full-stack web applications.  
 I hold a **Associate Degree Level (Bac+2)** in Full-Stack Web Application Development and have experience building complete solutions — from database architecture to user interface implementation.
 
 ---
 
 ## 🧠 About Me
 
-- 🎓 **Education:** Associate Degree Level (Bac+2) in Full-Stack Web Application Development  
+- 🎓 **Education:** Associate Degree Level (Bac+2) in Full-Stack Web Application Development and Bachelor (Bac+3) in Python Application Development
 - 💼 **Specialization:** Back-end development using **Python**, **Django**, **REST APIs**, and **PostgreSQL (PSQL)**  
 - ⚙️ **Additional Skills:**  
   Node.js / Express, HTML, CSS, JavaScript, Bootstrap, Jinja2, and **noSQL** databases  
