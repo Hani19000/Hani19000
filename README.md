@@ -8,9 +8,9 @@ I hold a **Associate Degree Level (Bac+2)** in Full-Stack Web Application Develo
 ## 🧠 About Me
 
 - 🎓 **Education:** Associate Degree Level (Bac+2) in Full-Stack Web Application Development and Bachelor (Bac+3) in Python Application Development
-- 💼 **Specialization:** Back-end development using **Python**, **Django**, **REST APIs**, and **PostgreSQL (PSQL)**  
+- 💼 **Specialization:** Back-end development using **Python**, **Django**, **Javascript**, **Typescript**,**MERN STACK** **REST APIs**, and **PostgreSQL (PSQL)**  
 - ⚙️ **Additional Skills:**  
-  Node.js / Express, HTML, CSS, JavaScript, Typescript Bootstrap, Jinja2, and **noSQL** databases  
+  HTML, CSS, Bootstrap, Jinja2, and **noSQL** databases  
 - 🚀 I am motivated by solving technical challenges, improving system performance, and continuously learning new technologies to deliver secure and high-quality web applications.
 
 ---
@@ -19,9 +19,9 @@ I hold a **Associate Degree Level (Bac+2)** in Full-Stack Web Application Develo
 
 | Area | Technologies |
 |-------|---------------|
-| **Back-end** | Python, Django, REST API, PostgreSQL, Express.js |
-| **Front-end** | HTML, CSS, JavaScript, Typescript, Bootstrap, Jinja2 |
-| **Additional** | Node.js, noSQL |
+| **Back-end** | Python, Django, REST API, PostgreSQL, Node.js/Express.js |
+| **Front-end** | HTML, CSS, JavaScript, Typescript, React, Bootstrap, Jinja2 |
+| **Additional** | noSQL |
 | **Tools & Practices** | Git, SQLite, Docker (basics), MVT architecture, CRUD operations, Authentication, Deployment |
 
 ---
