@@ -1,4 +1,4 @@
-# Hi, I'm Hani 👋
+# Hi, I'm Hani 
 
 I am a **Full-Stack Web Developer**, 23 years old, with a strong interest in making a Full-stack web applications.  
 I hold a **Associate Degree Level (Bac+2)** in Full-Stack Web Application Development and have experience building complete solutions — from database architecture to user interface implementation.
@@ -28,8 +28,8 @@ I hold a **Associate Degree Level (Bac+2)** in Full-Stack Web Application Develo
 
 ##  Recent Projects
 
-- 🚗 **Carpooling Web Application (Ecoride)** — Full-Stack project developed with *JavaScript* and *Node.js* (Academic)  
-- 🎵 **Audio Player Web Application (Audio_player)** — Music player web app connected to a database, developed with *Python* and *Django* (Personal)
+- **Carpooling Web Application (Ecoride)** — Full-Stack project developed with *JavaScript* and *Node.js* (Academic)  
+- **Audio Player Web Application (Audio_player)** — Music player web app connected to a database, developed with *Python* and *Django* (Personal)
 
 ---
 
