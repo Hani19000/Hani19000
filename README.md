@@ -93,33 +93,6 @@ Je suis un **développeur full-stack** spécialisé dans la création d'applicat
 
 ---
 
-## Compétences Techniques Détaillées
-
-### Développement Frontend
-- **Frameworks & Libraries :** React (hooks, context, lazy loading), Swiper.js
-- **Langages :** JavaScript ES6+, TypeScript, HTML5, CSS3
-- **UI/UX :** Design responsive, animations CSS, dark/light mode
-- **Optimisation :** Lazy loading, code splitting, images WebP
-
-### Développement Backend
-- **Frameworks :** Express.js, Django REST Framework
-- **API :** REST API, validation de données, rate limiting
-- **Sécurité :** Authentication, sanitisation, CORS, Helmet.js
-- **Services tiers :** SendGrid, Sentry
-
-### Bases de Données
-- **SQL :** PostgreSQL, SQLite (requêtes complexes, jointures, indexation)
-- **NoSQL :** MongoDB (documents, collections, aggregations)
-- **ORM :** Django ORM, Mongoose
-
-### DevOps & Outils
-- **Version Control :** Git, GitHub (branches, merge, pull requests)
-- **CI/CD :** GitHub Actions (workflows automatisés)
-- **Déploiement :** Vercel, Render, Docker (bases)
-- **Monitoring :** Sentry (error tracking)
-
----
-
 ## Ce que je peux apporter
 
 ✅ **Architecture Solide** — Je conçois des applications scalables et maintenables  
