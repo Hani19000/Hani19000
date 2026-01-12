@@ -16,7 +16,7 @@
 
 Je suis un **développeur full-stack** spécialisé dans la création d'applications web complètes, de l'architecture backend à l'interface utilisateur. Mon approche combine **rigueur technique**, **sécurité** et **expérience utilisateur optimale**.
 
-🎓 **Formation :**
+**Formation :**
 - **Bac+3** — Développement d'Applications Python *(en cours)*
 - **Bac+2** — Développement Web Full-Stack
 
@@ -33,7 +33,7 @@ Je suis un **développeur full-stack** spécialisé dans la création d'applicat
 
 ---
 
-## 🛠️ Stack Technique
+## Stack Technique
 
 ### Frontend
 ![React](https://img.shields.io/badge/React-61DAFB?style=flat-square&logo=react&logoColor=black)
@@ -63,7 +63,7 @@ Je suis un **développeur full-stack** spécialisé dans la création d'applicat
 
 ---
 
-## 💼 Projets Phares
+## Projets Phares
 
 ### [Portfolio Full-Stack](https://github.com/Hani19000/Portfolio-Hani)  Projet Récent
 > **Site vitrine professionnel avec architecture moderne**
@@ -120,7 +120,7 @@ Je suis un **développeur full-stack** spécialisé dans la création d'applicat
 
 ---
 
-## 📊 Statistiques GitHub
+## Statistiques GitHub
 
 <div align="center">
 
@@ -132,7 +132,7 @@ Je suis un **développeur full-stack** spécialisé dans la création d'applicat
 
 ---
 
-## 🎯 Compétences Techniques Détaillées
+## Compétences Techniques Détaillées
 
 ### Développement Frontend
 - **Frameworks & Libraries :** React (hooks, context, lazy loading), Swiper.js
