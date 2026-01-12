@@ -20,11 +20,13 @@ Je suis un **développeur full-stack** spécialisé dans la création d'applicat
 - **Bac+3** — Développement d'Applications Python *(en cours)*
 - **Bac+2** — Développement Web Full-Stack
 
-**Ce qui me motive :**
-- Résoudre des problèmes techniques complexes
-- Optimiser les performances et la sécurité des applications
-- Apprendre constamment de nouvelles technologies
-- Créer des solutions qui ont un impact réel
+## Ce que je peux apporter
+
+✅ **Architecture Solide** — Je conçois des applications scalables et maintenables  
+✅ **Code Propre** — Je privilégie la lisibilité et la documentation  
+✅ **Sécurité First** — Je prends la sécurité au sérieux dès la conception  
+✅ **Autonomie** — Je sais mener un projet de A à Z  
+✅ **Curiosité** — J'apprends constamment de nouvelles technologies  
 
  **Actuellement :**
 - Je développe des projets full-stack avec **React** et **Node.js**
@@ -84,22 +86,7 @@ Je suis un **développeur full-stack** spécialisé dans la création d'applicat
 - ✅ Design responsive avec dark/light mode
 - ✅ Déploiement automatisé (Vercel + Render)
 
-**Ce que ce projet démontre :**
-- Maîtrise complète du cycle de développement
-- Conscience de la sécurité et des performances
-- Capacité à structurer et livrer un projet professionnel
-
 🔗 [Voir le site](https://hani-derrouiche.vercel.app) | [Code source](https://github.com/Hani19000/Portfolio-Hani)
-
----
-
-## Ce que je peux apporter
-
-✅ **Architecture Solide** — Je conçois des applications scalables et maintenables  
-✅ **Code Propre** — Je privilégie la lisibilité et la documentation  
-✅ **Sécurité First** — Je prends la sécurité au sérieux dès la conception  
-✅ **Autonomie** — Je sais mener un projet de A à Z  
-✅ **Curiosité** — J'apprends constamment de nouvelles technologies  
 
 ---
 
