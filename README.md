@@ -14,7 +14,7 @@
 
 ## À propos de moi
 
-Je suis un **développeur full-stack** spécialisé dans la création d'applications web complètes, de l'architecture backend à l'interface utilisateur. Mon approche combine **rigueur technique**, **sécurité** et **expérience utilisateur optimale**.
+Je suis un développeur full-stack spécialisé dans la création d'applications web complètes, de l'architecture backend à l'interface utilisateur. Mon approche combine rigueur technique, sécurité et expérience utilisateur optimale.
 
 **Formation :**
 - **Bac+3** — Développement d'Applications Python *(en cours)*
