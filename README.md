@@ -28,11 +28,6 @@ Je suis un développeur full-stack spécialisé dans la création d'applications
 ✅ **Autonomie** — Je sais mener un projet de A à Z  
 ✅ **Curiosité** — J'apprends constamment de nouvelles technologies  
 
- **Actuellement :**
-- Je développe des projets full-stack avec **React** et **Node.js**
-- J'approfondis **TypeScript** et l'architecture microservices
-- Je perfectionne mes compétences en **CI/CD** et **DevOps**
-
 ---
 
 ## Stack Technique
