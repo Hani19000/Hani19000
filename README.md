@@ -86,40 +86,6 @@ Je suis un **développeur full-stack** spécialisé dans la création d'applicat
 
 ---
 
-### [Ecoride - Application de Covoiturage](https://github.com/Hani19000/Ecoride)
-> **Plateforme de covoiturage collaborative**
-
-**Stack :** JavaScript, Node.js, Express, MongoDB  
-**Fonctionnalités :**
-- Système de recherche et réservation de trajets
-- Authentification sécurisée des utilisateurs
-- Interface intuitive et responsive
-- Gestion des profils et historique des trajets
-
-**Apprentissages clés :**
-- Architecture MERN stack
-- Gestion d'état complexe côté client
-- API RESTful complète
-
----
-
-### [Audio Player](https://github.com/Hani19000/Audio_player)
-> **Lecteur de musique web connecté à une base de données**
-
-**Stack :** Python, Django, PostgreSQL, Jinja2  
-**Fonctionnalités :**
-- Lecture, pause, contrôle du volume
-- Gestion de playlists personnalisées
-- Interface utilisateur fluide et moderne
-- Architecture MVT (Model-View-Template)
-
-**Apprentissages clés :**
-- ORM Django et requêtes SQL optimisées
-- Gestion de fichiers média
-- Architecture backend robuste
-
----
-
 ## Compétences Techniques Détaillées
 
 ### Développement Frontend
@@ -147,15 +113,6 @@ Je suis un **développeur full-stack** spécialisé dans la création d'applicat
 
 ---
 
-## Actuellement en apprentissage
-
-- **Tests automatisés** : Vitest, React Testing Library, Playwright
-- **Architecture** : Microservices, design patterns avancés
-- **Cloud & DevOps** : AWS, Kubernetes, Docker avancé
-- **Sécurité** : OAuth 2.0, JWT, OWASP Top 10
-
----
-
 ## Ce que je peux apporter
 
 ✅ **Architecture Solide** — Je conçois des applications scalables et maintenables  
@@ -175,11 +132,3 @@ Je suis **ouvert aux opportunités professionnelles**, aux projets collaboratifs
 📧 **Email :** [hanider27@gmail.com](mailto:hanider27@gmail.com)  
 💼 **LinkedIn :** [Hani Derrouiche](https://www.linkedin.com/in/hani-derrouiche-199461372/)  
 🌐 **Portfolio :** [hani-derrouiche.vercel.app](https://hani-derrouiche.vercel.app)
-
----
-
-### 💡 *"Code is like humor. When you have to explain it, it's bad."* – Cory House
-
-⭐ **N'hésitez pas à explorer mes repositories et à me contacter pour toute collaboration !**
-
-</div>
