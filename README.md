@@ -1,4 +1,4 @@
-# 👋 Salut, je suis Hani Derrouiche
+# Salut, je suis Hani Derrouiche
 
 <div align="center">
   
@@ -12,7 +12,7 @@
 
 ---
 
-## 🚀 À propos de moi
+## À propos de moi
 
 Je suis un **développeur full-stack** spécialisé dans la création d'applications web complètes, de l'architecture backend à l'interface utilisateur. Mon approche combine **rigueur technique**, **sécurité** et **expérience utilisateur optimale**.
 
@@ -20,16 +20,16 @@ Je suis un **développeur full-stack** spécialisé dans la création d'applicat
 - **Bac+3** — Développement d'Applications Python *(en cours)*
 - **Bac+2** — Développement Web Full-Stack
 
-💡 **Ce qui me motive :**
+**Ce qui me motive :**
 - Résoudre des problèmes techniques complexes
 - Optimiser les performances et la sécurité des applications
 - Apprendre constamment de nouvelles technologies
 - Créer des solutions qui ont un impact réel
 
-🎯 **Actuellement :**
-- 🔨 Je développe des projets full-stack avec **React** et **Node.js**
-- 📚 J'approfondis **TypeScript** et l'architecture microservices
-- 🚀 Je perfectionne mes compétences en **CI/CD** et **DevOps**
+ **Actuellement :**
+- Je développe des projets full-stack avec **React** et **Node.js**
+- J'approfondis **TypeScript** et l'architecture microservices
+- Je perfectionne mes compétences en **CI/CD** et **DevOps**
 
 ---
 
@@ -65,7 +65,7 @@ Je suis un **développeur full-stack** spécialisé dans la création d'applicat
 
 ## 💼 Projets Phares
 
-### 🌟 [Portfolio Full-Stack](https://github.com/Hani19000/Portfolio-Hani) ⭐ Projet Récent
+### [Portfolio Full-Stack](https://github.com/Hani19000/Portfolio-Hani)  Projet Récent
 > **Site vitrine professionnel avec architecture moderne**
 
 **Stack :** React 19, TypeScript, Node.js, Express, SendGrid  
@@ -86,7 +86,7 @@ Je suis un **développeur full-stack** spécialisé dans la création d'applicat
 
 ---
 
-### 🚗 [Ecoride - Application de Covoiturage](https://github.com/Hani19000/Ecoride)
+### [Ecoride - Application de Covoiturage](https://github.com/Hani19000/Ecoride)
 > **Plateforme de covoiturage collaborative**
 
 **Stack :** JavaScript, Node.js, Express, MongoDB  
@@ -103,7 +103,7 @@ Je suis un **développeur full-stack** spécialisé dans la création d'applicat
 
 ---
 
-### 🎵 [Audio Player](https://github.com/Hani19000/Audio_player)
+### [Audio Player](https://github.com/Hani19000/Audio_player)
 > **Lecteur de musique web connecté à une base de données**
 
 **Stack :** Python, Django, PostgreSQL, Jinja2  
@@ -134,24 +134,24 @@ Je suis un **développeur full-stack** spécialisé dans la création d'applicat
 
 ## 🎯 Compétences Techniques Détaillées
 
-### 💻 Développement Frontend
+### Développement Frontend
 - **Frameworks & Libraries :** React (hooks, context, lazy loading), Swiper.js
 - **Langages :** JavaScript ES6+, TypeScript, HTML5, CSS3
 - **UI/UX :** Design responsive, animations CSS, dark/light mode
 - **Optimisation :** Lazy loading, code splitting, images WebP
 
-### ⚙️ Développement Backend
+### Développement Backend
 - **Frameworks :** Express.js, Django REST Framework
 - **API :** REST API, validation de données, rate limiting
 - **Sécurité :** Authentication, sanitisation, CORS, Helmet.js
 - **Services tiers :** SendGrid, Sentry
 
-### 🗄️ Bases de Données
+### Bases de Données
 - **SQL :** PostgreSQL, SQLite (requêtes complexes, jointures, indexation)
 - **NoSQL :** MongoDB (documents, collections, aggregations)
 - **ORM :** Django ORM, Mongoose
 
-### 🔧 DevOps & Outils
+### DevOps & Outils
 - **Version Control :** Git, GitHub (branches, merge, pull requests)
 - **CI/CD :** GitHub Actions (workflows automatisés)
 - **Déploiement :** Vercel, Render, Docker (bases)
@@ -159,16 +159,16 @@ Je suis un **développeur full-stack** spécialisé dans la création d'applicat
 
 ---
 
-## 🌱 Actuellement en apprentissage
+## Actuellement en apprentissage
 
-- 🧪 **Tests automatisés** : Vitest, React Testing Library, Playwright
-- 🏗️ **Architecture** : Microservices, design patterns avancés
-- ☁️ **Cloud & DevOps** : AWS, Kubernetes, Docker avancé
-- 🔒 **Sécurité** : OAuth 2.0, JWT, OWASP Top 10
+- **Tests automatisés** : Vitest, React Testing Library, Playwright
+- **Architecture** : Microservices, design patterns avancés
+- **Cloud & DevOps** : AWS, Kubernetes, Docker avancé
+- **Sécurité** : OAuth 2.0, JWT, OWASP Top 10
 
 ---
 
-## 💬 Ce que je peux apporter
+## Ce que je peux apporter
 
 ✅ **Architecture Solide** — Je conçois des applications scalables et maintenables  
 ✅ **Code Propre** — Je privilégie la lisibilité et la documentation  
