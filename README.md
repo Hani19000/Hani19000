@@ -120,18 +120,6 @@ Je suis un **développeur full-stack** spécialisé dans la création d'applicat
 
 ---
 
-## Statistiques GitHub
-
-<div align="center">
-
-![Hani's GitHub stats](https://github-readme-stats.vercel.app/api?username=Hani19000&show_icons=true&theme=tokyonight&hide_border=true&include_all_commits=true&count_private=true)
-
-![Top Langs](https://github-readme-stats.vercel.app/api/top-langs/?username=Hani19000&layout=compact&theme=tokyonight&hide_border=true&langs_count=8)
-
-</div>
-
----
-
 ## Compétences Techniques Détaillées
 
 ### Développement Frontend
