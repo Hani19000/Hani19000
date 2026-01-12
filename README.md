@@ -88,9 +88,3 @@ Je suis un développeur full-stack spécialisé dans la création d'applications
 ## 📫 Me Contacter
 
 Je suis **ouvert aux opportunités professionnelles**, aux projets collaboratifs et aux échanges techniques.
-
-<div align="center">
-
-📧 **Email :** [hanider27@gmail.com](mailto:hanider27@gmail.com)  
-💼 **LinkedIn :** [Hani Derrouiche](https://www.linkedin.com/in/hani-derrouiche-199461372/)  
-🌐 **Portfolio :** [hani-derrouiche.vercel.app](https://hani-derrouiche.vercel.app)
