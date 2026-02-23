@@ -69,19 +69,35 @@ Je suis un développeur full-stack spécialisé dans la création d'applications
 
 ## Projets Phares
 
-### [Portfolio Full-Stack](https://github.com/Hani19000/Portfolio-Hani)  Projet Récent
-> **Site vitrine professionnel avec architecture moderne**
+### [ECOM-WATCH](https://ecomwatch.vercel.app) — E-commerce Full-Stack de Bout en Bout
 
-**Stack :** React 19, TypeScript, Node.js, Express, SendGrid  
+> **Boutique de montres de prestige avec architecture production-ready**
+
+![React](https://img.shields.io/badge/React_19-61DAFB?style=flat-square&logo=react&logoColor=black)
+![Vite](https://img.shields.io/badge/Vite-646CFF?style=flat-square&logo=vite&logoColor=white)
+![TanStack Query](https://img.shields.io/badge/TanStack_Query-FF4154?style=flat-square&logo=reactquery&logoColor=white)
+![Zustand](https://img.shields.io/badge/Zustand-433E38?style=flat-square)
+![Tailwind CSS](https://img.shields.io/badge/Tailwind_CSS-06B6D4?style=flat-square&logo=tailwindcss&logoColor=white)
+![Node.js](https://img.shields.io/badge/Node.js-339933?style=flat-square&logo=node.js&logoColor=white)
+![Express](https://img.shields.io/badge/Express-000000?style=flat-square&logo=express&logoColor=white)
+![PostgreSQL](https://img.shields.io/badge/PostgreSQL-4169E1?style=flat-square&logo=postgresql&logoColor=white)
+![Redis](https://img.shields.io/badge/Redis-DC382D?style=flat-square&logo=redis&logoColor=white)
+![Docker](https://img.shields.io/badge/Docker-2496ED?style=flat-square&logo=docker&logoColor=white)
+![Stripe](https://img.shields.io/badge/Stripe-635BFF?style=flat-square&logo=stripe&logoColor=white)
+
 **Highlights :**
-- ✅ Architecture full-stack avec API REST sécurisée
-- ✅ CI/CD automatisé avec GitHub Actions
-- ✅ Monitoring production avec Sentry
-- ✅ Rate limiting et validation des données
-- ✅ Design responsive avec dark/light mode
-- ✅ Déploiement automatisé (Vercel + Render)
 
-🔗 [Voir le site](https://hani-derrouiche.vercel.app) | [Code source](https://github.com/Hani19000/Portfolio-Hani)
+- ✅ **Architecture Feature-Based** — Monorepo organisé par domaine métier (catalogue, cart, orders, admin), chaque feature autonome avec ses propres services, hooks et composants
+- ✅ **Authentification sécurisée** — Access Token en mémoire (protection XSS) + Refresh Token en cookie HttpOnly (protection CSRF) + rotation automatique silencieuse
+- ✅ **Session Hint Pattern** — Zustand `persist` pour un affichage instantané sans spinner au chargement, avec validation serveur en arrière-plan
+- ✅ **Double interface** — Storefront client (catalogue, panier, checkout) + Back-office admin complet (produits, stocks, commandes, promotions, utilisateurs)
+- ✅ **Paiement Stripe** — Checkout sécurisé avec gestion des succès, annulations et restauration automatique du panier après échec
+- ✅ **Cache hybride Redis + PostgreSQL** — Sessions persistées en DB, accélérées par Redis avec self-healing automatique
+- ✅ **Panier persistant** — Isolation par utilisateur (connecté/invité), validation stock en temps réel, sauvegarde automatique avant paiement
+- ✅ **CI/CD** — GitHub Actions pour les tests et le déploiement automatisé (Vercel + Render)
+- ✅ **SEO production** — Structured data JSON-LD, Open Graph, sitemap XML, preload LCP, robots.txt, Lighthouse optimisé
+
+🔗 [Voir le site](https://ecomwatch.vercel.app) | [Frontend](https://github.com/Hani19000/ECOM-WATCH-Frontend) | [Backend](https://github.com/Hani19000/ECOM-WATCH-Backend)
 
 ---
 
