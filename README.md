@@ -71,7 +71,7 @@ Je suis un développeur full-stack spécialisé dans la création d'applications
 
 ### [ECOM-WATCH](https://ecomwatch.vercel.app) — E-commerce Full-Stack de Bout en Bout
 
-> **Boutique de montres de prestige avec architecture production-ready**
+> **Boutique de montres de prestige avec architecture Monolith complete**
 
 ![React](https://img.shields.io/badge/React_19-61DAFB?style=flat-square&logo=react&logoColor=black)
 ![Vite](https://img.shields.io/badge/Vite-646CFF?style=flat-square&logo=vite&logoColor=white)
